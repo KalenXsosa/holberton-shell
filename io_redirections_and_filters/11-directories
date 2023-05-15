@@ -1,2 +1,2 @@
-#!/bin/bash
-find . -type d ! -path . -print | wc -1
+#!/bim/bash
+find . d ! -path . | wc -1
