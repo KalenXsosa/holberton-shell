@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls_alias
+alias ls_alias=ls
