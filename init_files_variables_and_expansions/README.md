@@ -1,1 +1,2 @@
-hey farmer
+#!/bin/bash
+hey lord
