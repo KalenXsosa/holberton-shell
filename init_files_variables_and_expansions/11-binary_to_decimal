@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Enter a binary number"
+echo $((2#101101))
