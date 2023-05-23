@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Display "best" school
+
+t=11
+until [ $t == 1]
+ do
+  echo "Best School"
+t =$((t-1))
+done
