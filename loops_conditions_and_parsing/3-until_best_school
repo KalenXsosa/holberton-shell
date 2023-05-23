@@ -2,9 +2,8 @@
 # Display "best" school"
 
 i=1
-until [ $i > 10 ]
+until ((i>10))
 do
     echo "Best School"
-    i=$((i+1))
+    ((i=i+1))
 done
-
