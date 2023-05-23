@@ -1,8 +1,6 @@
 #!/usr/bin/env bash
 # Display "best" school"
 
-#!/bin/bash
-
 i=1
 while [ $i -le 10 ]
 do
