@@ -2,7 +2,7 @@
 # Display "best" school"
 
 i=1
-until [ $i -le 10 ]
+until [ $i > 10 ]
 do
     if [ $i -eq 9 ]
     then
