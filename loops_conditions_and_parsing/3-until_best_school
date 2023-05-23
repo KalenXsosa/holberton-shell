@@ -4,13 +4,7 @@
 i=1
 until [ $i > 10 ]
 do
-    if [ $i -eq 9 ]
-    then
-        echo "Best School"
-        echo "Hi"
-    else
-        echo "Best School"
-    fi
+    echo "Best School"
     i=$((i+1))
 done
 
