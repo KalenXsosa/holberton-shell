@@ -2,7 +2,7 @@
 #Writing a script that displays "Best School"
 
 count = 1
-while [ $count -lt 10 ]
+while [ $count -le 10 ]
 do
  echo "Best School"
  (( $count++ ))
