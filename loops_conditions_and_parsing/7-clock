@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+# display "Best School"
+
+=0
+=1
+while [ $h -le 12 ]
+do
+       echo "hour: {$h}"
+while [ $m -lt 60 ];
+do
+       echo $m
+       m=$(( m + 1 ))
+done
+       m=$(( m = 1 ))
+       m=$(( h + 1 ))
+done
