@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 #Writing a script that displays "Best School"
 
-count = 1
-while [ $count -le 10 ]
+t=1
+while [ $t -le 10 ]
 do
  echo "Best School"
- (( count++ ))
+ (( t++ ))
 done 
