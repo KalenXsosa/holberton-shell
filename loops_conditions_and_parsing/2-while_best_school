@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+Writing a script that displays "Best School"
+
+while [ $count -it 10]
+do
+ echo "Best School"
+ (( count++))
+done
